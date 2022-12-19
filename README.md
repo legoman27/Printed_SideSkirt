@@ -28,6 +28,9 @@ Total width of the skirts is 88mm.
 - [ ] add some sort of display capability in the side skirt, mabye a btt TFT43 if it is at all possible to rotate the display by 90 degrees.
 
 
+[Buy me a Coffee!](https://ko-fi.com/legoman27281)
+
+
 # EVERYTHNG BELOW THIS IS A WORK IN PROGRESS
 
 
