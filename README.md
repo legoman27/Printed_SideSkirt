@@ -38,6 +38,8 @@ ADD
 
 8x M5x10 BHCS
 
+2x M5 nut
+
 16x M3x8 SHCS
 
 
