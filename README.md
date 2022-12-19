@@ -34,18 +34,11 @@ Total width of the skirts is 88mm.
 
 
 # BOM Changes
-
-ADD
-
-1x side panel of your size 250/300/350 - modified to allow for cable pass-through (OR PRINT the side panel)
-
-8x M5x10 BHCS
-
-8x M5 nut
-
-26x M3x8 SHCS
-
-10x M3x4x5 Heat set inserts
++1x side panel of your size 250/300/350 - modified to allow for cable pass-through (OR PRINT the side panel)
++8x M5x10 BHCS
++8x M5 nut
++26x M3x8 SHCS
++10x M3x4x5 Heat set inserts
 
 
 # Installation
@@ -53,17 +46,16 @@ ADD
 FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL BIND ON THE PANEL WITHOUT CLEARANCE.
 
 #### SideSkirt mounted on the right side of the printer
-Z_rear parts & Cable chain mount are mirrored in X 
-
-Deck panel mounted upside down
+- Z_rear parts & Cable chain mount are mirrored in X 
+- Deck panel mounted upside down
 
 
 #### Lower Skirt corners
-For the front corners, install the M5 nut for the rubber feet before mounting. Inserting the nut after installing the motors is not possible.
+- For the front corners, install the M5 nut for the rubber feet before mounting. Inserting the nut after installing the motors is not possible.
 
 
 #### DIN Rail mounts
-the din rails mount via M5 bolts through the skirt
+- The din rails mount via M5 bolts with captive nuts through the skirt
 
 <p align="center">
   <img src="Images/din_outside.png" width="600">
