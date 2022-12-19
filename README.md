@@ -23,6 +23,7 @@ Total width of the skirts is 88mm.
 
 # Future Plans
 - [ ] finish lower skirts and update for standard frames
+- [ ] add other power inlet types
 - [ ] add support for 300 & 350 frames
 - [ ] add support for LDO frames
 - [ ] add some sort of display capability in the side skirt, mabye a btt TFT43 if it is at all possible to rotate the display by 90 degrees.
@@ -46,16 +47,16 @@ Total width of the skirts is 88mm.
 
 FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL BIND ON THE PANEL WITHOUT CLEARANCE.
 
-#### SideSkirt mounted on the right side of the printer
+### SideSkirt mounted on the right side of the printer
 - Z_rear parts & Cable chain mount are mirrored in X 
 - Deck panel mounted upside down
 
 
-#### Lower Skirt corners
+### Lower Skirt corners
 - For the front corners, install the M5 nut for the rubber feet before mounting. Inserting the nut after installing the motors is not possible.
 
 
-#### DIN Rail mounts
+### DIN Rail mounts
 - The din rails mount via M5x16 BHCS with captive nuts through the skirt
 
 <p align="center">
