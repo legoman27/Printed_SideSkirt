@@ -44,18 +44,18 @@ ADD
 16x M3x8 SHCS
 
 
-#Installation
+# Installation
 
 FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL BIND ON THE PANEL WITHOUT CLEARANCE.
 
-###Sidepack mounted on the right side of the printer
+### Sidepack mounted on the right side of the printer
 Z_rear parts & Cable chain mount are mirrored in X 
 
 DEck panel mounted upside down
 
 
 
-##DIN Rail mounts
+## DIN Rail mounts
 the din rails mount via M5 bolts through the skirt
 
 <p align="center">
