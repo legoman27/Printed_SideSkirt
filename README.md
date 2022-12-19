@@ -34,11 +34,11 @@ Total width of the skirts is 88mm.
 
 
 # BOM Changes
-+1x side panel of your size 250/300/350 - modified to allow for cable pass-through (OR PRINT the side panel)
-+8x M5x10 BHCS
-+8x M5 nut
-+26x M3x8 SHCS
-+10x M3x4x5 Heat set inserts
+-1x side panel of your size 250/300/350 - modified to allow for cable pass-through (OR PRINT the side panel)
+-8x M5x10 BHCS
+-8x M5 nut
+-26x M3x8 SHCS
+-10x M3x4x5 Heat set inserts
 
 
 # Installation
