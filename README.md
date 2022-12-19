@@ -10,6 +10,6 @@ Uses a completely stock Voron Spec Trident frame. Verticals are all the same len
 Current design assumes a total thickness of side panel + foam tape = 3mm
 
 <p align="center">
-  <img src="images/overview.png" width="800">
+  <img src="/images/overview.png" width="800">
 </p>
 
