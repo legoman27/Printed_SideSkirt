@@ -56,7 +56,7 @@ FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL B
 
 
 #### DIN Rail mounts
-- The din rails mount via M5 bolts with captive nuts through the skirt
+- The din rails mount via M5x16 BHCS with captive nuts through the skirt
 
 <p align="center">
   <img src="Images/din_outside.png" width="600">
