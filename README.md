@@ -52,11 +52,14 @@ ADD
 
 FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL BIND ON THE PANEL WITHOUT CLEARANCE.
 
-### SideSkirt mounted on the right side of the printer
+## SideSkirt mounted on the right side of the printer
 Z_rear parts & Cable chain mount are mirrored in X 
 
-DEck panel mounted upside down
+Deck panel mounted upside down
 
+
+## Lower Skirt corners
+For the front corners, install the M5 nut for the rubber feet before mounting. Inserting the nut after installing the motors is not possible.
 
 
 ## DIN Rail mounts
