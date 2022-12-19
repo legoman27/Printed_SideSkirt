@@ -22,7 +22,7 @@ Total width of the skirts is 88mm.
 
 
 # Future Plans
-
+- [ ] finish lower skirts and update for standard frames
 - [ ] add support for 300 & 350 frames
 - [ ] add support for LDO frames
 - [ ] add some sort of display capability in the side skirt, mabye a btt TFT43 if it is at all possible to rotate the display by 90 degrees.
