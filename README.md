@@ -21,7 +21,7 @@ Total width of the skirts is 88mm.
 </p>
 
 
-#Future Plans
+# Future Plans
 
 - [ ] add support for 300 & 350 frames
 - [ ] add support for LDO frames
@@ -31,7 +31,7 @@ Total width of the skirts is 88mm.
 # EVERYTHNG BELOW THIS IS A WORK IN PROGRESS
 
 
-#BOM Changes
+# BOM Changes
 
 ADD
 
