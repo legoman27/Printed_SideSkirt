@@ -30,9 +30,6 @@ Total width of the skirts is 88mm.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2H52T7)
 
-[Buy me a Coffee!](https://ko-fi.com/legoman27281)
-
-
 # EVERYTHNG BELOW THIS IS A WORK IN PROGRESS
 
 
