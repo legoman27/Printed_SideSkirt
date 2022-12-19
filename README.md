@@ -13,3 +13,12 @@ Current design assumes a total thickness of side panel + foam tape = 3mm
   <img src="Images/overview.png" width="800">
 </p>
 
+the din rails mout via a bolt through the skirt
+
+<p align="center">
+  <img src="Images/din_outside.png" width="400">
+</p>
+
+<p align="center">
+  <img src="Images/din_inside.png" width="400">
+</p>
