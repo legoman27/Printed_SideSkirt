@@ -1,4 +1,4 @@
-# Printed_Sidepack
+# Printed_SideSkirt
 A fully printed mod intended for a Voron Trident to relocate the electronics to the side of the printer
 
 Heavily inspired by by `kyledavis417#2007`'s Trident sidepack mod
@@ -48,7 +48,7 @@ ADD
 
 FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL BIND ON THE PANEL WITHOUT CLEARANCE.
 
-### Sidepack mounted on the right side of the printer
+### SideSkirt mounted on the right side of the printer
 Z_rear parts & Cable chain mount are mirrored in X 
 
 DEck panel mounted upside down
