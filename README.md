@@ -1,7 +1,7 @@
 # Printed_SideSkirt
 A fully printed mod intended for a Voron Trident to relocate the electronics to the side of the printer with as little deviation from the standard BOM as possible.
 
-Heavily inspired by by `kyledavis417#2007`'s Trident sidepack mod
+Heavily inspired by by `kyledavis417#2007`'s [Trident sidepack mod](https://github.com/3DPrintingMods/VoronTrident-Sidepack).
 
 Huge thanks to the Voron design team for everything!
 
