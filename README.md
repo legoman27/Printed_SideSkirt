@@ -1,20 +1,23 @@
 # Printed_SideSkirt
-A fully printed mod intended for a Voron Trident to relocate the electronics to the side of the printer
+A fully printed mod intended for a Voron Trident to relocate the electronics to the side of the printer with as little deviation from the standard BOM as possible.
 
 Heavily inspired by by `kyledavis417#2007`'s Trident sidepack mod
 
 Huge thanks to the Voron design team for everything!
 
-
+#
 
 Current design assumes a total thickness of side panel + foam tape = 3mm
 
-This mod could also be mounted on the rear of a printer, but this prevents access to the A/B belts at the rear of the gantry.
+This mod could also be mounted on the rear of a printer, but this prevents access to the A/B belts at the rear of the gantry as well as moving the power inlet to the side of the machine, which may or may not be preferable
 
 Uses a completely stock Voron Spec Trident frame. Verticals are all the same length for 250 / 300 / 350, so the front and rear pieces will be the same for all sizes. 
-LDO frames are taller, and will require different designs.
+LDO frames are taller, and will require modification --TODO!.
 
-Total width of the skirts is 88mm. 
+Total width of the side skirts is 88mm. 
+
+Total height of the lower skirts is 36mm.
+For smaller builds, It may be beneficial to use the standard full size Lower Skirts for more space for electronics.
 
 <p align="center">
   <img src="Images/overview.png" width="800">
@@ -39,8 +42,8 @@ Total width of the skirts is 88mm.
 + 1x side panel of your size 250/300/350 - modified to allow for cable pass-through (OR PRINT the side panel)
 + 8x M5x10 BHCS
 + 8x M5 nut
-+ 26x M3x8 SHCS
-+ 10x M3x4x5 Heat set inserts
++ 16x M3x8 SHCS
++ 12x M3x4x5 Heat set inserts
 
 
 # Installation
@@ -53,7 +56,7 @@ FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL B
 
 
 ### Lower Skirt corners
-- For the front corners, install the M5 nut for the rubber feet before mounting. Inserting the nut after installing the motors is not possible.
+- For the front corners, install the captive M5 nut for the rubber feet before mounting to the frame. Inserting the nut after attaching to the frame is not possible due to clearance with the steppers.
 
 
 ### DIN Rail mounts
