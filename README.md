@@ -7,19 +7,21 @@ Huge thanks to the Voron design team for everything!
 
 #
 
-Current design assumes a total thickness of side panel + foam tape = 3mm
+Current design assumes a total thickness of side panel + foam tape = 3mm.
 
-This mod could also be mounted on the rear of a trident, but this prevents access to the A/B belts at the rear of the gantry as well as moving the power inlet to the side of the machine, which may or may not be preferable
+This mod could also be mounted on the rear of a trident, but this prevents access to the A/B belts at the rear of the gantry as well as moving the power inlet to the side of the machine, which may or may not be preferable.
 
 Uses a completely stock Voron Spec Trident frame. Verticals are all the same length for 250 / 300 / 350, so the front and rear pieces will be the same for all sizes. 
 LDO frames are taller, and will require modification --TODO!.
 
 Total width of the side skirts is 90mm. 
+the side skirts have provisions for an M3 heat set insert, and should be able to accept most side panel clips.
+270 degree hinges mount to the side of the printer and are not compatible. any hinges that mount to the front should work just fine.
 
 Total height of the lower skirts is 36mm.
+The alternate lower skirts are optional, and were only created because I wanted to reduce the total z height of the printer slightly to fit in my workbench.
 For smaller builds, it may be beneficial to use the standard full size Lower Skirts for more space for electronics, or if you want to retain the standard mini12864 screen. 
 extended ribbon cables should be used in this case.
-The alternate lower skirts are optional, and were only created because I wanted to reduce the total z height of the printer slightly to fit in my workbench.
 
 
 I originally created this for a trident with a 215mm^2 build area, so there is a narrower fan mount available if anyone else builds one for some reason.
