@@ -23,7 +23,7 @@ The alternate lower skirts are optional, and were only created because I wanted 
 
 
 I originally created this for a trident with a 215mm^2 build area, so there is a narrower fan mount available if anyone else builds one for some reason.
-All other sidepack pieces int his case are the same as a 250mm^2 build.
+All other sidepack pieces in this case are the same as a 250mm^2 build.
 
 <p align="center">
   <img src="Images/overview.png" width="800">
