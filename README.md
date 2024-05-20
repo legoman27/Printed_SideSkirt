@@ -9,15 +9,21 @@ Huge thanks to the Voron design team for everything!
 
 Current design assumes a total thickness of side panel + foam tape = 3mm
 
-This mod could also be mounted on the rear of a printer, but this prevents access to the A/B belts at the rear of the gantry as well as moving the power inlet to the side of the machine, which may or may not be preferable
+This mod could also be mounted on the rear of a trident, but this prevents access to the A/B belts at the rear of the gantry as well as moving the power inlet to the side of the machine, which may or may not be preferable
 
 Uses a completely stock Voron Spec Trident frame. Verticals are all the same length for 250 / 300 / 350, so the front and rear pieces will be the same for all sizes. 
 LDO frames are taller, and will require modification --TODO!.
 
-Total width of the side skirts is 88mm. 
+Total width of the side skirts is 90mm. 
 
 Total height of the lower skirts is 36mm.
-For smaller builds, It may be beneficial to use the standard full size Lower Skirts for more space for electronics.
+For smaller builds, it may be beneficial to use the standard full size Lower Skirts for more space for electronics, or if you want to retain the standard mini12864 screen. 
+extended ribbon cables should be used in this case.
+The alternate lower skirts are optional, and were only created because I wanted to reduce the total z height of the printer slightly to fit in my workbench.
+
+
+I originally created this for a trident with a 215mm^2 build area, so there is a narrower fan mount available if anyone else builds one for some reason.
+All other sidepack pieces int his case are the same as a 250mm^2 build.
 
 <p align="center">
   <img src="Images/overview.png" width="800">
@@ -27,7 +33,7 @@ For smaller builds, It may be beneficial to use the standard full size Lower Ski
 # Future Plans
 - [ ] finish lower skirts and update for standard frames
 - [ ] add other power inlet types
-- [ ] add support for 300 & 350 frames
+- [x] ~~add support for 300 & 350 frames~~
 - [ ] add support for LDO frames
 - [ ] add some sort of display capability in the side skirt, mabye a btt TFT43 if it is at all possible to rotate the display by 90 degrees.
 
