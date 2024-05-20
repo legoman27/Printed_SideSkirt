@@ -67,7 +67,7 @@ FOAM TAPE IS REQUIRED BETWEEN THE SIDE PANEL AND THE FRAME. FRONT Z MOTOR WILL B
 - For the front corners, install the captive M5 nut for the rubber feet before mounting to the frame. Inserting the nut after attaching to the frame is not possible due to clearance with the steppers.
 
 
-###Corner Trim
+### Corner Trim
 - just stuck on with double sided tape
 
 
